@@ -11,8 +11,8 @@ A publications PR may merge only after **two** approvals:
 
 | # | Who | Role |
 | --- | --- | --- |
-| 1 | **Interchouette** (ITCy worker) | Self-review then **Approve** on its own draft/PR |
-| 2 | **gRoussac** (Greg) | Always requested as reviewer; must **Approve** |
+| 1 | **Interchouette** (ITCy worker) | Self-review on its own PR. GitHub blocks author `Approve`; post a review comment: `BAT #1 self-review complete`. |
+| 2 | **gRoussac** (Greg) | Always requested as reviewer; must **Approve** (`BAT #2`). |
 
 Do not merge with only one of those. Agent habit: always
 `gh pr create … --reviewer gRoussac` (and re-request if missing).
@@ -26,8 +26,8 @@ fork: feat/… from origin/dev
   → draft content + disclosure metadata
   → PR into Interchouette-ITC/itcy-publications **dev**
   → --reviewer gRoussac
-  → Interchouette self-review → Approve
-  → gRoussac Approve
+  → Interchouette self-review → comment `BAT #1 self-review complete`
+  → gRoussac Approve (`BAT #2`)
   → merge (= BAT green) → head branch auto-deletes
   → ITCy may publish to LinkedIn company page
 ```
