@@ -19,11 +19,15 @@ Do not merge with only one of those. Agent habit: always
 
 GitHub Free + private: branch protection (required 2 reviews) is unavailable until org Pro. Enforce by this README + product contract/rule until then.
 
+## Content layout
+
+See [`posts/README.md`](posts/README.md). Each draft is `posts/<slug>/body.md` + `meta.toml`.
+
 ## Workflow
 
 ```text
 fork: feat/… from origin/dev
-  → draft content + disclosure metadata
+  → draft under posts/<slug>/ + disclosure metadata
   → PR into Interchouette-ITC/itcy-publications **dev**
   → --reviewer gRoussac
   → Interchouette self-review → comment `BAT #1 self-review complete`
