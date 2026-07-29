@@ -1,6 +1,6 @@
 # Posts layout (BAT drafts)
 
-Ready-to-ship LinkedIn drafts live under `posts/<slug>/`. A PR that adds or updates a slug is the BAT artifact. Merge after two-person BAT = green to publish (publish itself is a later product stage; this repo stays the audit trail).
+Ready-to-ship LinkedIn drafts live under `posts/<slug>/`. A PR that adds or updates a slug is the BAT artifact. **Merge after gRoussac Approve** (BAT). Publish to LinkedIn is a product step after merge.
 
 **License:** Post drafts here are (c) Interchouette-ITC, BUSL-1.1 - see [NOTICE](NOTICE) and the repository root [LICENSE](../LICENSE). Do not add copyright or SPDX lines inside `body.md`; that file is publish-ready LinkedIn copy.
 
@@ -41,4 +41,4 @@ sources = [
 
 - Commit secrets or personal LinkedIn export dumps.
 - Publish to LinkedIn from this repo (product binary does that after BAT merge).
-- Merge without Interchouette `BAT #1 self-review complete` and **gRoussac** Approve.
+- Merge without **gRoussac Approve** (BAT).
