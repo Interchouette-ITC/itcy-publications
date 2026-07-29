@@ -24,7 +24,7 @@ See [`posts/README.md`](posts/README.md). Each draft is `posts/<slug>/body.md` +
 ## Workflow
 
 ```text
-fork: feat/… from origin/dev
+fork: feat/… from interchouette/dev
   → draft under posts/<slug>/ + disclosure metadata
   → PR into Interchouette-ITC/itcy-publications **dev**
   → --reviewer gRoussac
