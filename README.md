@@ -37,3 +37,7 @@ fork: feat/… from origin/dev
 ```
 
 Never `git push upstream`. Never recreate `main`.
+
+## License
+
+BUSL-1.1 (Interchouette-ITC). See [LICENSE](LICENSE). Post drafts under `posts/` are covered by [posts/NOTICE](posts/NOTICE).

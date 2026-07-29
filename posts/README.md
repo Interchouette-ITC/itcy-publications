@@ -2,6 +2,8 @@
 
 Ready-to-ship LinkedIn drafts live under `posts/<slug>/`. A PR that adds or updates a slug is the BAT artifact. Merge after two-person BAT = green to publish (publish itself is a later product stage; this repo stays the audit trail).
 
+**License:** Post drafts here are (c) Interchouette-ITC, BUSL-1.1 - see [NOTICE](NOTICE) and the repository root [LICENSE](../LICENSE). Do not add copyright or SPDX lines inside `body.md`; that file is publish-ready LinkedIn copy.
+
 ## Path
 
 ```text
