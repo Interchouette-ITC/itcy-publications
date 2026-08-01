@@ -1,40 +1,33 @@
-# BAT publications - Interchouette ITC / ITCy
+# Publications - Interchouette ITC / ITCy
 
-Canonical: [Interchouette-ITC/itcy-publications](https://github.com/Interchouette-ITC/itcy-publications)  
-Worker fork: [Interchouette/itcy-publications](https://github.com/Interchouette/itcy-publications)
+Canonical (Posts): [Interchouette-ITC/itcy-publications](https://github.com/Interchouette-ITC/itcy-publications)  
+Worker fork (Drafts): [Interchouette/itcy-publications](https://github.com/Interchouette/itcy-publications)
 
-Default branch: **`dev`**. Public LinkedIn publish is gated by **BAT** on this repo.
+Default branch: **`dev`**.
 
-## BAT merge rule (locked)
+## Terms
 
-| What | Rule |
-| --- | --- |
-| **BAT** | **gRoussac Approve** on the publications PR (= BON a tirer) |
-| **Merge** | Only after Approve. ITCy webhook may rebase-merge on Approve wake. |
-| **Comments** | **Babysit only:** fix copy, rework, Q&A. Not BAT. Not a second gate. |
+| Term | Repo | Path |
+| --- | --- | --- |
+| **Draft** | Interchouette fork | `drafts/<DRAFT-id>/` |
+| **Post** (= Publication) | Org | `posts/<POST-id>/` |
+| **BAT** | Gate only | gRoussac **Approve** on the fork Draft PR |
 
-Always open PRs with `--reviewer gRoussac` (CODEOWNERS: `@gRoussac`).
-
-GitHub Free + private: branch protection unavailable until org Pro. Habit + CODEOWNERS + this README enforce BAT until then.
-
-## Content layout
-
-See [`posts/README.md`](posts/README.md). Each draft is `posts/<slug>/body.md` + `meta.toml`.
+Comments on Draft PRs are **babysit** only (fix copy, rework, Q&A) - not BAT. Always `--reviewer gRoussac` (CODEOWNERS: `@gRoussac`).
 
 ## Workflow
 
 ```text
-fork: feat/… from interchouette/dev
-  → draft under posts/<slug>/ + disclosure metadata
-  → PR into Interchouette-ITC/itcy-publications **dev**
-  → --reviewer gRoussac
-  → optional review comments (babysit / rework)
+/accept_draft → fork PR drafts/<DRAFT-id>/ (--reviewer gRoussac)
+  → babysit comments optional
   → gRoussac Approve (BAT)
-  → merge → ITCy may publish to LinkedIn company page
+  → ITCy promotes to org posts/<POST-id>/ + ships (mock|live)
 ```
 
-Never `git push upstream`. Never recreate `main`.
+See [`drafts/README.md`](drafts/README.md) and [`posts/README.md`](posts/README.md).
+
+Worker remote name: **`interchouette`** (fork); **`upstream`** = org. Never `git push upstream`. Never recreate `main`.
 
 ## License
 
-BUSL-1.1 (Interchouette-ITC). See [LICENSE](LICENSE). Post drafts under `posts/` are covered by [posts/NOTICE](posts/NOTICE).
+BUSL-1.1 (Interchouette-ITC). See [LICENSE](LICENSE). Bodies under `posts/` / `drafts/` use adjacent NOTICE files; no SPDX inside publish-ready markdown.
