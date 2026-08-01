@@ -1,0 +1,20 @@
+kind = "post"
+subject = "current MCP art"
+created_at = "2026-08-01T02:02:21.015439951+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 3654
+tokens_out = 236
+sources = [
+  "https://labs.cloudsecurityalliance.org/research/csa-research-note-mcp-security-crisis-20260504-csa-styled/",
+  "https://agent-wars.com/news/2026-03-13-mcp-security-2026-30-cves-in-60-days-what-went-wrong",
+  "https://infoworld.com/article/4203421/critical-ruflo-flaw-lets-attackers-hijack-ai-agents-through-exposed-mcp-bridge-2.html",
+  "https://agentmelt.com/blog/mcp-security-2026-attacks-and-defenses/",
+  "https://infoq.com/articles/securing-mcp-production-gateway",
+  "https://explainx.ai/blog/mcp-2026-07-28-stateless-spec-july-2026",
+  "https://dzone.com/articles/ai-agent-tool-trust",
+  "https://www.techstoriess.com/ai-agent-security-practices-2026-prompt-injection-mcp-risks-data-leaks/",
+  "https://www.gopher.security/blog/post-quantum-ai-mcp-security-2026",
+  "https://adversa.ai/blog/top-mcp-security-resources-july-2026",
+  "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+  "https://blog.cyberdesserts.com/ai-agent-security-risks/",
+]
