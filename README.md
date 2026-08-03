@@ -1,33 +1,40 @@
 # Publications - Interchouette ITC / ITCy
 
-Canonical (Posts): [Interchouette-ITC/itcy-publications](https://github.com/Interchouette-ITC/itcy-publications)  
-Worker fork (Drafts): [Interchouette/itcy-publications](https://github.com/Interchouette/itcy-publications)
+**Branch = kind.** Artefact trees sit at the **branch root** (no `drafts/` or `posts/` folders).
 
-Default branch: **`dev`**.
-
-## Terms
-
-| Term | Repo | Path |
+| Mode | Remote | Branches |
 | --- | --- | --- |
-| **Draft** | Interchouette fork | `drafts/<DRAFT-id>/` |
-| **Post** (= Publication) | Org | `posts/<POST-id>/` |
-| **BAT** | Gate only | gRoussac **Approve** on the fork Draft PR |
+| **Playground (now)** | [Interchouette/itcy-publications](https://github.com/Interchouette/itcy-publications) | `drafts`, `posts` |
+| **Production (later)** | [Interchouette-ITC/itcy-publications](https://github.com/Interchouette-ITC/itcy-publications) | `drafts`, `publications` |
 
-Comments on Draft PRs are **babysit** only (fix copy, rework, Q&A) - not BAT. Always `--reviewer gRoussac` (CODEOWNERS: `@gRoussac`).
-
-## Workflow
+## Layout
 
 ```text
-/accept_draft → fork PR drafts/<DRAFT-id>/ (--reviewer gRoussac)
-  → babysit comments optional
-  → gRoussac Approve (BAT)
-  → ITCy promotes to org posts/<POST-id>/ + ships (mock|live)
+# on branch `drafts`
+DRAFT-YYYYMMDD-NNNNNN/body.md
+DRAFT-YYYYMMDD-NNNNNN/meta.toml
+
+# on branch `posts` (playground) or `publications` (org)
+POST-YYYYMMDD-NNNNNN/body.md
+POST-YYYYMMDD-NNNNNN/meta.toml
 ```
 
-See [`drafts/README.md`](drafts/README.md) and [`posts/README.md`](posts/README.md).
+Shared scaffolding on every branch: `LICENSE`, `NOTICE`, `README.md`, `.github/`.
 
-Worker remote name: **`interchouette`** (fork); **`upstream`** = org. Never `git push upstream`. Never recreate `main`.
+## BAT
+
+**gRoussac Approve** on the Draft PR (base = `drafts`) is the only gate. PR comments = babysit only.
+
+```text
+/accept_draft → PR into drafts (`<DRAFT-id>/`)
+  → gRoussac Approve (BAT)
+  → ITCy writes `<POST-id>/` on posts (playground) or publications (live) + ships
+```
+
+Soft/mock never writes the org. Live / cutover uses org `publications`.
+
+Worker remote: **`interchouette`** (fork); **`upstream`** = org. Never `git push upstream`.
 
 ## License
 
-BUSL-1.1 (Interchouette-ITC). See [LICENSE](LICENSE). Bodies under `posts/` / `drafts/` use adjacent NOTICE files; no SPDX inside publish-ready markdown.
+BUSL-1.1 (Interchouette-ITC). See [LICENSE](LICENSE) and [NOTICE](NOTICE). No SPDX inside publish-ready `body.md`.
