@@ -21,12 +21,12 @@ POST-YYYYMMDD-NNNNNN/body.md
 POST-YYYYMMDD-NNNNNN/meta.toml
 
 # on branch `drafts_tweet`
-TWEET-YYYYMMDD-NNNNNN/body.md
-TWEET-YYYYMMDD-NNNNNN/meta.toml
+YYYY/MM/TWEET-YYYYMMDD-NNNNNN/body.md
+YYYY/MM/TWEET-YYYYMMDD-NNNNNN/meta.toml
 
 # on branch `tweets`
-XPOST-YYYYMMDD-NNNNNN/body.md
-XPOST-YYYYMMDD-NNNNNN/meta.toml
+YYYY/MM/XPOST-YYYYMMDD-NNNNNN/body.md
+YYYY/MM/XPOST-YYYYMMDD-NNNNNN/meta.toml
 ```
 
 `kind` in meta: `"draft"` / `"post"` / `"tweet"` / `"xpost"`. Tweet meta holds `cite` and optional `quote_tweet_id` (X status cite ships as a quote tweet).
@@ -42,9 +42,9 @@ Shared scaffolding: `LICENSE`, `NOTICE`, `README.md`, `.github/`.
   → gRoussac Approve (BAT)
   → ITCy writes `<POST-id>/` on posts + ships LinkedIn
 
-/accept_tweet → PR into drafts_tweet (`<TWEET-id>/`)
+/accept_tweet → PR into drafts_tweet (`YYYY/MM/<TWEET-id>/`)
   → gRoussac Approve (BAT)
-  → ITCy writes `<XPOST-id>/` on tweets + ships X
+  → ITCy writes `YYYY/MM/<XPOST-id>/` on tweets + ships X
 ```
 
 Soft/mock uses the **fork** only. Live / cutover uses the **org**.
