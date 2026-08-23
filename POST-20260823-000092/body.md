@@ -16,4 +16,3 @@ Link: 1
 3. https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
 
 Written by AI - ITCy - model ollama/qwen3:8b - tokens in:11029 out:300
-
