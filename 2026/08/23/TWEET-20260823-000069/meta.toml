@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260823-000069"
+subject = "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints of AI everywhere."
+created_at = "2026-08-23T17:05:05.964979352+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 97
+cite = "https://decrypt.co/376271/chatgpt-web-ai-written-pew"
+quote_tweet_id = ""
+sources = [
+  "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+  "https://www.newsbytesapp.com/news/science/pew-research-finds-35-of-web-pages-since-chatgpt-ai-written/tldr",
+  "https://tech.yahoo.com/ai/articles/third-post-chatgpt-ai-written-133103203.html",
+]
