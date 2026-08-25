@@ -1,0 +1,13 @@
+kind = "xpost"
+xpost_id = "XPOST-20260825-000079"
+tweet_id = "TWEET-20260825-000079"
+subject = "farce"
+created_at = "2026-08-25T21:44:40.928943884+02:00"
+model = "farce=ollama/qwen3:8b"
+tokens_in = 8966
+tokens_out = 77
+cite = ""
+quote_tweet_id = ""
+sources = [
+  "tweet_farce (no cite)",
+]
