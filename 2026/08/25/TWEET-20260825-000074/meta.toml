@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260825-000074"
+subject = "Cursor’s AI-native approach could simplify software development, but gaps in enterprise controls, security and ecosystem depth mean GitHub remains the safer system of record for now, analysts say."
+created_at = "2026-08-25T14:40:50.411539327+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 106
+cite = "https://www.infoworld.com/article/4211505/decoding-origin-cursors-github-rival-that-was-launched-during-the-latters-outage.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4211505/decoding-origin-cursors-github-rival-that-was-launched-during-the-latters-outage.html",
+  "https://kanopylabs.com/blog/expo-agent-vs-claude-code-vs-cursor-mobile-ai-dev",
+  "https://kingy.ai/blog/cursor-origin-vs-github",
+]
