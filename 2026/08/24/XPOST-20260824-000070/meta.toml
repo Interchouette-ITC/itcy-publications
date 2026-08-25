@@ -1,0 +1,14 @@
+kind = "xpost"
+xpost_id = "XPOST-20260824-000070"
+tweet_id = "TWEET-20260824-000070"
+subject = "ITC prefers Angular syntax in Leptos"
+created_at = "2026-08-24T12:30:53.094010816+02:00"
+model = "itc-pack | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 93
+cite = "https://github.com/Interchouette-ITC/rangular"
+quote_tweet_id = ""
+sources = [
+  "https://interchouette.net/news",
+  "https://interchouette.net/CV/",
+]
