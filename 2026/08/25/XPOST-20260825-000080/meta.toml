@@ -1,0 +1,13 @@
+kind = "xpost"
+xpost_id = "XPOST-20260825-000080"
+tweet_id = "TWEET-20260825-000080"
+subject = "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust"
+created_at = "2026-08-25T21:57:59.631879677+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 120
+cite = "https://x.com/rustaceans_rs/status/2092134050060275910"
+quote_tweet_id = "2092134050060275910"
+sources = [
+  "https://x.com/rustaceans_rs/status/2092134050060275910",
+]
