@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260825-000071"
+tweet_id = "TWEET-20260825-000071"
+subject = "Want to follow along with Rust development? Curious how you might get involved? Take a look!"
+created_at = "2026-08-25T11:24:59.807530453+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 114
+cite = "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly"
+quote_tweet_id = ""
+sources = [
+  "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly",
+  "https://corrode.dev/blog/flattening-rusts-learning-curve",
+  "https://weetechsolution.com/blog/rust-developer-roadmap",
+]
