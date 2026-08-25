@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260825-000094"
+draft_id = "DRAFT-20260825-000094"
+subject = "Want to follow along with Rust development? Curious how you might get involved? Take a look!"
+created_at = "2026-08-25T11:31:12.982047186+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11875
+tokens_out = 305
+sources = [
+  "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly",
+  "https://corrode.dev/blog/flattening-rusts-learning-curve",
+  "https://weetechsolution.com/blog/rust-developer-roadmap",
+]
