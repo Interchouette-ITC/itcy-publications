@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260826-000081"
+tweet_id = "TWEET-20260826-000081"
+subject = "Vercel's AI SDK changed its security reporting instructions"
+created_at = "2026-08-26T01:25:10.634111788+02:00"
+model = "load=ollama/qwen3:8b | tweet=ollama/qwen3:8b"
+tokens_in = 13606
+tokens_out = 573
+cite = "https://www.techzine.eu/news/security/143695/vercel-offers-1-million-for-hacking-its-ai-sandbox"
+quote_tweet_id = ""
+sources = [
+  "https://www.techzine.eu/news/security/143695/vercel-offers-1-million-for-hacking-its-ai-sandbox",
+  "https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-saas-supply-chain-vercel-contextai-2026",
+  "https://www.varonis.com/blog/vercel-breach-2026",
+  "https://www.ox.security/blog/vercel-context-ai-supply-chain-attack-breachforums",
+]
