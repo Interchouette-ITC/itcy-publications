@@ -1,0 +1,13 @@
+kind = "tweet"
+tweet_id = "TWEET-20260826-000085"
+subject = "Payouts.com has picked Casper to settle payments for its AI agents."
+created_at = "2026-08-26T15:21:21.005240571+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 70
+cite = "https://thepaypers.com/payments/news/payoutscom-casper-association-partner-on-ai-agent-payments"
+quote_tweet_id = "2092237696139698529"
+sources = [
+  "https://thepaypers.com/payments/news/payoutscom-casper-association-partner-on-ai-agent-payments",
+  "https://finance.yahoo.com/technology/ai/articles/ode-anthropic-acquires-casper-studios-150000200.html",
+]
