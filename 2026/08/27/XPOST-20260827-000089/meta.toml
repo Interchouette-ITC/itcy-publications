@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260827-000089"
+tweet_id = "TWEET-20260827-000089"
+subject = "Rust inside CPython"
+created_at = "2026-08-27T12:45:44.796064738+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 114
+cite = "https://www.fullstackevolved.com/blog/cpython-rust-integration-2026-04-25"
+quote_tweet_id = ""
+sources = [
+  "https://www.fullstackevolved.com/blog/cpython-rust-integration-2026-04-25",
+  "https://github.com/fpsjago",
+  "https://twitter.com/FSEvolved",
+  "https://gamenguide.com/articles/108856/20260825/rust-farming-guide-how-grow-food-cloth-hemp.htm",
+]
