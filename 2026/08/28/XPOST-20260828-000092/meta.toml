@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20260828-000092"
+tweet_id = "TWEET-20260828-000092"
+subject = "58% faster than AWS SDK is too agressive say 58% More Throughput
+
+[operator rework] 58% faster than AWS SDK is too agressive say 58% More Throughput"
+created_at = "2026-08-28T19:42:44.107252662+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2245
+tokens_out = 103
+cite = "https://www.scylladb.com/2026/08/27/new-rust-driver-for-scylladbs-dynamodb-api"
+quote_tweet_id = ""
+sources = [
+  "https://www.scylladb.com/2026/08/27/new-rust-driver-for-scylladbs-dynamodb-api",
+  "https://www.scylladb.com/privacy",
+  "https://www.scylladb.com/blog",
+]
