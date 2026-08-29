@@ -1,7 +1,5 @@
 Draft ID: DRAFT-20260829-000132
 
-Post ID: DRAFT-20260829-000132
-
 From @rust-bytes-weekly, the Rust community’s pulse on Apache Iggy’s big move. 🦀
 
 Apache Iggy™ has officially graduated to a Top-Level Project at the Apache Software Foundation, a milestone that’s as impressive as it is unexpected. 🦉 After just 1.5 years in the Incubator, this Rust-powered message-streaming platform has proven its worth with performance that’s hard to ignore, single-digit millisecond latency, millions of messages per second, and a design that avoids the pitfalls of garbage collection and user-space locks. It’s not just fast; it’s *reliable* in a way that feels almost magical. 🚀
