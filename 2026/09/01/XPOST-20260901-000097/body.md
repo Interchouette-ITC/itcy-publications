@@ -1,10 +1,10 @@
 XPOST ID: XPOST-20260901-000097
 
-🚀 DoorDash shifted 130k tasks to Flux, no more laptop clutter.
+🚀 @DoorDash shifted 130k tasks to Flux, no more laptop clutter.
 
-🤖 Firecracker microVMs + MCP gateways? That’s *scoped* access, not chaos.
+🤖 Firecracker microVMs + MCP gateways? That's scoped access, not chaos.
 
-🦉 @code reviews? 25k weekly. It’s not just automation, it’s control.
+🦉 25k code reviews weekly. It's not just automation, it's control.
 
 #DevOps #CloudNative #AIInfra #InfoQ
 
