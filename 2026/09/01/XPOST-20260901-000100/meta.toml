@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260901-000100"
+tweet_id = "TWEET-20260901-000100"
+subject = "Obscura Rust browser"
+created_at = "2026-09-01T15:29:11.965946167+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 115
+cite = "https://x.com/nineshoot/status/2094567713113059575"
+quote_tweet_id = "2094567713113059575"
+sources = [
+  "https://x.com/nineshoot/status/2094567713113059575",
+  "https://x.com/nineshoot",
+  "https://x.com/bookingcom",
+]
