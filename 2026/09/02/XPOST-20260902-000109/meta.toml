@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260902-000109"
+tweet_id = "TWEET-20260902-000109"
+subject = "Topcoat (reative webapp framework for Rust) is getting live views. This will will enable patterns like suspense and other dynamic view patterns while still being server-side rendered!"
+created_at = "2026-09-02T18:56:19.492800165+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 101
+cite = "https://x.com/carllerche/status/2094826518212231484"
+quote_tweet_id = "2094826518212231484"
+sources = [
+  "https://x.com/carllerche/status/2094826518212231484",
+  "https://github.com",
+  "https://x.com/SrSkip8/status/2095093771524333699",
+  "https://x.com/ROCK231976/status/2095081561037414788",
+]
