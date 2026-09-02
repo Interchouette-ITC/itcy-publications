@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260902-000108"
+tweet_id = "TWEET-20260902-000108"
+subject = "SeggWat is live on Uneed today"
+created_at = "2026-09-02T16:16:22.854631572+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 108
+cite = "https://x.com/haukejung/status/2095057956442169571"
+quote_tweet_id = "2095057956442169571"
+sources = [
+  "https://x.com/haukejung/status/2095057956442169571",
+  "https://x.com/moonfarm_dev/status/2092589932363551231",
+  "https://x.com/haukejung/status/2092267755609137282",
+]
