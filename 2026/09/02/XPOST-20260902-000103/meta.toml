@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20260902-000103"
+tweet_id = "TWEET-20260902-000103"
+subject = "new Wasmer SDK: Local Sandboxes for AI Agents"
+created_at = "2026-09-02T12:30:59.660916386+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 99
+cite = "https://x.com/wasmerio/status/2094845905379922302"
+quote_tweet_id = "2094845905379922302"
+sources = [
+  "https://x.com/wasmerio/status/2094845905379922302",
+  "https://x.com/wasmerio",
+  "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
+  "https://x.com/SubhakarRao/status/2095098516171583497",
+  "https://x.com/George_Babis/status/2095098492691546305",
+]
