@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260902-000105"
+tweet_id = "TWEET-20260902-000105"
+subject = "binwalk-ng a Rust-based rewrite/fork of the classic binwalk tool. It scans firmware binaries to identify and extract embedded files filesystems and data far faster with higher accuracy and fewer false positives than the old Python version"
+created_at = "2026-09-02T12:59:06.171155701+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 91
+cite = "https://x.com/securefirmware/status/2094761347552567648"
+quote_tweet_id = "2094761347552567648"
+sources = [
+  "https://x.com/securefirmware/status/2094761347552567648",
+  "https://x.com/securefirmware",
+  "https://x.com/hakstuff/status/2094781936770154618",
+  "https://x.com/ptdbugs/status/2093071944299970766",
+]
