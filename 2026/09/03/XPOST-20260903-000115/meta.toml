@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260903-000115"
+tweet_id = "TWEET-20260903-000115"
+subject = "Autumn Rust web framework"
+created_at = "2026-09-03T15:00:47.463544463+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 110
+cite = "https://autumn-web.app"
+quote_tweet_id = ""
+sources = [
+  "https://autumn-web.app",
+  "https://github.com/autumn-foundation/autumn",
+  "https://docs.rs/autumn-harvest",
+]
