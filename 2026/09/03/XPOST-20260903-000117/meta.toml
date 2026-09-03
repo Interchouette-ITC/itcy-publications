@@ -1,0 +1,24 @@
+kind = "xpost"
+xpost_id = "XPOST-20260903-000117"
+tweet_id = "TWEET-20260903-000117"
+subject = "when @cursor_ai is completely down there is a benefit to run ITCy on ollama/qwen3:8b
+
+[operator rework] remove \"No more waiting, just ship.\"
+
+[operator rework] find something else than \"becomes your local code wizard\" you are up be funny
+
+[operator rework] \"runs its code without a hitch.\"
+
+[operator rework] change \"runs your code\" to \"runs its code\""
+created_at = "2026-09-03T17:08:31.538757062+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2253
+tokens_out = 81
+cite = "https://60minuteapps.com/blog/cursor-with-local-llm"
+quote_tweet_id = ""
+sources = [
+  "https://60minuteapps.com/blog/cursor-with-local-llm/",
+  "https://runaihome.com/blog/cursor-with-local-llm/",
+  "https://mljourney.com/how-to-use-ollama-with-the-cursor-editor/",
+  "https://dredyson.com/how-i-got-local-ai-code-completion-in-cursor-without-waiting-for-native-ollama-support/",
+]
