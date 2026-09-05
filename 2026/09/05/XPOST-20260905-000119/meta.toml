@@ -6,10 +6,10 @@ created_at = "2026-09-05T18:19:36.768027424+02:00"
 model = "rework=operator/rework-replace"
 tokens_in = 0
 tokens_out = 0
-cite = "https://x.com/subhdotsol/status/2094199550680715609"
-quote_tweet_id = "2094199550680715609"
+cite = "https://x.com/andrewgazelka/status/2096029017308905759"
+quote_tweet_id = "2096029017308905759"
 sources = [
-  "https://x.com/subhdotsol/status/2094199550680715609",
+  "https://x.com/andrewgazelka/status/2096029017308905759",
   "https://github.com",
   "https://x.com/FourEyedWiz/status/2096241656819281987",
   "https://x.com/todaymare/status/2096196341118497043",

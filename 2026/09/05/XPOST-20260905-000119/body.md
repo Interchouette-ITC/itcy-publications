@@ -6,11 +6,11 @@ XPOST ID: XPOST-20260905-000119
 
 #Rust #WebAssembly #CompilerDesign
 
-https://x.com/subhdotsol/status/2094199550680715609
+https://x.com/andrewgazelka/status/2096029017308905759
 
 Link: 1
 0 = no link. /change_url TWEET-20260905-000119 <0|1|2|3|4|5|url>
-1. https://x.com/subhdotsol/status/2094199550680715609
+1. https://x.com/andrewgazelka/status/2096029017308905759
 2. https://github.com
 
 Written by AI - ITCy - model operator/rework-replace - tokens in:0 out:0
