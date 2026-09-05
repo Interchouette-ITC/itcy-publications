@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260905-000118"
+tweet_id = "TWEET-20260905-000118"
+subject = "OpenLogi has reached 10K stars in GitHub open source alternative to Logitech Options+ written in Rust. OpenLogi is a native Rust app that replaces Logitech Options+ for users who want full device control"
+created_at = "2026-09-05T16:17:49.297693756+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 97
+cite = "https://x.com/AprilNEA/status/2090122034072465709"
+quote_tweet_id = "2090122034072465709"
+sources = [
+  "https://x.com/AprilNEA/status/2090122034072465709",
+  "https://x.com/fardakarimov/status/2096146442188435693",
+  "https://x.com/sentient_agency/status/2095468129443078323",
+]
