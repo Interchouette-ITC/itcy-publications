@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260905-000119"
+tweet_id = "TWEET-20260905-000119"
+subject = "Cranelift is used by multiple WebAssembly runtimes such as Wasmtime and Wasmer with performance comparable to LLVM-based runtimes. An alternative code generator for the Rust compiler"
+created_at = "2026-09-05T18:19:36.768027424+02:00"
+model = "rework=operator/rework-replace"
+tokens_in = 0
+tokens_out = 0
+cite = "https://x.com/subhdotsol/status/2094199550680715609"
+quote_tweet_id = "2094199550680715609"
+sources = [
+  "https://x.com/subhdotsol/status/2094199550680715609",
+  "https://github.com",
+  "https://x.com/FourEyedWiz/status/2096241656819281987",
+  "https://x.com/todaymare/status/2096196341118497043",
+]
