@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20260907-000121"
+tweet_id = "TWEET-20260907-000121"
+subject = "hotpath-rs A simple Rust profiler that shows exactly why your code is slow Performance feedback for developers and coding agents. hotpath-rs 0.25 ships with first-class Prometheus & Grafana support"
+created_at = "2026-09-07T19:52:58.932504601+02:00"
+model = "load=ollama/qwen3:8b | tweet=ollama/qwen3:8b"
+tokens_in = 8747
+tokens_out = 365
+cite = "https://x.com/pawelurbanekcom/status/2096981327245459533"
+quote_tweet_id = "2096981327245459533"
+sources = [
+  "https://hotpath.rs/blog/rust-performance-profiling",
+  "https://docs.rs/hotpath/latest/hotpath/index.html",
+  "https://lib.rs/crates/hotpath",
+  "https://grepedia.udohjeremiah.com/tools/@hotpath-rs",
+  "https://hotpath.rs/",
+]
