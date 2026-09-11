@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260911-000123"
+tweet_id = "TWEET-20260911-000123"
+subject = "Indian agricultural warehousing and lending provider Arya.ag is running tests for a tokenization system that would turn electronic warehouse receipts for"
+created_at = "2026-09-11T11:54:36.890220434+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 109
+cite = "https://www.cryptobreaking.com/arya-ag-to-store-grain"
+quote_tweet_id = ""
+sources = [
+  "https://www.cryptobreaking.com/arya-ag-to-store-grain",
+  "https://www.kucoin.com/news/flash/indian-agri-lending-firm-arya-ag-tests-tokenized-grain-warehouse-receipts-on-avalanche",
+  "https://news.finst.com/en/articles/arya-ag-tokenizes-2-billion-grain-loans-on-avalanche",
+  "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche",
+]
