@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260917-000132"
+tweet_id = "TWEET-20260917-000132"
+subject = "Migrating the GitHub Copilot runtime to Rust"
+created_at = "2026-09-17T12:53:41.770082118+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 123
+cite = "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot"
+quote_tweet_id = ""
+sources = [
+  "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+  "https://github.com",
+  "https://docs.github.com",
+  "https://githubuniverse.com",
+]
