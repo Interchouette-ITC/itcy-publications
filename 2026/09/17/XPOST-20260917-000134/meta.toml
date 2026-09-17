@@ -1,0 +1,18 @@
+kind = "xpost"
+xpost_id = "XPOST-20260917-000134"
+tweet_id = "TWEET-20260917-000134"
+subject = "native GPU programming in Rust
+
+[operator rework] add #RUDA in tags"
+created_at = "2026-09-17T17:43:37.314980534+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2220
+tokens_out = 123
+cite = "https://x.com/NVIDIAHPCDev/status/2100261772355907936"
+quote_tweet_id = "2100261772355907936"
+sources = [
+  "https://x.com/NVIDIAHPCDev/status/2100261772355907936",
+  "https://nvda.ws/4hm1bHS",
+  "https://x.com/thimothybsirius/status/2100606311054635010",
+  "https://x.com/brezshares/status/2100605773277761668",
+]
