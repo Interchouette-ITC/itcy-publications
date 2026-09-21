@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260921-000140"
+tweet_id = "TWEET-20260921-000140"
+subject = "LowLevelCraft Rust for Systems Programming"
+created_at = "2026-09-21T14:07:13.426660157+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 89
+cite = "https://x.com/chessMan786/status/2101671222954373325"
+quote_tweet_id = "2101671222954373325"
+sources = [
+  "https://www.lowlevelcraft.com/tracks/language-foundations/rust-systems",
+  "https://webreference.com/rust/systems",
+  "https://tutorials.dodatech.com/rust-systems/rust-systems-overview",
+]
