@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20260921-000137"
+tweet_id = "TWEET-20260921-000137"
+subject = "Attackers are scanning internet-exposed Vite development servers for environment files, cloud credentials and infrastructure configuration."
+created_at = "2026-09-21T12:05:38.475776146+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 147
+cite = "https://www.infoworld.com/article/4222246/exposed-vite-servers-are-being-probed-for-aws-and-azure-credentials.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4222246/exposed-vite-servers-are-being-probed-for-aws-and-azure-credentials.html",
+  "https://us.resources.infoworld.com",
+  "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets",
+  "https://www.msn.com/en-xl/news/other/hackers-are-mass-scanning-vite-servers-to-steal-aws-and-azure-credentials/ar-AA2cfsMh",
+  "https://www.f5.com/labs/articles/cloud-takeover-mass-scanning-for-exposed-vite-endpoints-cve-2026-39364",
+]
