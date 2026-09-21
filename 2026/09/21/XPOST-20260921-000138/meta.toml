@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260921-000138"
+tweet_id = "TWEET-20260921-000138"
+subject = "Recently, MinIO removed its official image repository from Docker Hub. For teams relying on open-source MinIO in containerized environments, this naturally raises questions about deployment stability and long-term maintenance."
+created_at = "2026-09-21T12:34:14.759966461+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 91
+cite = "https://x.com/RustFSofficial/status/2100019413877743835"
+quote_tweet_id = "2100019413877743835"
+sources = [
+  "https://x.com/RustFSofficial/status/2100019413877743835",
+  "https://x.com/realronswansea/status/2101984299411009601",
+  "https://x.com/TheInspectorAsh/status/2101984285368672347",
+]
