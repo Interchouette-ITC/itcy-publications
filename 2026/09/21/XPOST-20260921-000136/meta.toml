@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20260921-000136"
+tweet_id = "TWEET-20260921-000136"
+subject = "Binder C Linux Driver Being Removed In Favor Of Rust"
+created_at = "2026-09-21T11:53:14.804635749+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 114
+cite = "https://x.com/twtayaan/status/2101560789622813157"
+quote_tweet_id = "2101560789622813157"
+sources = [
+  "https://www.phoronix.com/news/Google-Binder-C-Goodbye",
+  "https://www.michaellarabel.com",
+  "https://freenode.net/article/rust-binder-prepares-to-retire-its-c-twin-as-kernel-rewrites-move-past-experimen",
+  "https://hwbusters.com/news/linux-7-4-deletes-11470-lines-of-android-binder-c-code-and-the-rust-binder-driver-takes-over",
+]
