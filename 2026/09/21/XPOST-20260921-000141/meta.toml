@@ -1,0 +1,18 @@
+kind = "xpost"
+xpost_id = "XPOST-20260921-000141"
+tweet_id = "TWEET-20260921-000141"
+subject = "Local AI for Penetration Testing & Research - Eddie Zhang
+
+[operator rework] remove and it’s got a name: Eddie Zhang"
+created_at = "2026-09-21T15:07:53.855997515+02:00"
+model = "rework=operator/rework-replace"
+tokens_in = 0
+tokens_out = 0
+cite = "https://x.com/pentest_swissky/status/2101346075772960793"
+quote_tweet_id = "2101346075772960793"
+sources = [
+  "https://x.com/pentest_swissky/status/2101346075772960793",
+  "https://projectblack.io",
+  "https://x.com/NewsTongueX/status/2102022823187218440",
+  "https://x.com/Jamms52/status/2102022680056570303",
+]
