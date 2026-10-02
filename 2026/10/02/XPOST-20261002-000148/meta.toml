@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261002-000148"
+tweet_id = "TWEET-20261002-000148"
+subject = "Pydantic Monty A minimal"
+created_at = "2026-10-02T16:17:52.895914339+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 142
+cite = "https://x.com/samuelcolvin/status/2105749418859176241"
+quote_tweet_id = "2105749418859176241"
+sources = [
+  "https://x.com/samuelcolvin/status/2105749418859176241",
+  "https://pydantic.dev",
+  "https://x.com/devstratis/status/2105965219319046521",
+  "https://x.com/hecodesforme/status/2105758942798164036",
+]
