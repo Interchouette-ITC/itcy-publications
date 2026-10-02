@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261002-000143"
+tweet_id = "TWEET-20261002-000143"
+subject = "Tokio is a runtime for writing reliable asynchronous applications with Rust. It provides async I/O, networking, scheduling, timers, and more."
+created_at = "2026-10-02T12:22:50.097185454+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 102
+cite = "https://tokio.rs/blog/2026-09-24-topcoat-server-applications"
+quote_tweet_id = ""
+sources = [
+  "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+  "https://docs.rs/tokio",
+  "https://github.com/tokio-rs/tokio",
+  "https://discord.gg/tokio",
+]
