@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261002-000146"
+tweet_id = "TWEET-20261002-000146"
+subject = "Comprehensive Rust is a free Rust course developed by the Android team at Google"
+created_at = "2026-10-02T13:55:50.265377074+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 154
+cite = "https://x.com/RyanRodemoyer2/status/2105680171588079992"
+quote_tweet_id = "2105680171588079992"
+sources = [
+  "https://x.com/RyanRodemoyer2/status/2105680171588079992",
+  "https://x.com/Realitysporting/status/2105991216269574585",
+  "https://x.com/AcademyKpi/status/2105991214411502020",
+]
