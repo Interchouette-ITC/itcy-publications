@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261003-000150"
+tweet_id = "TWEET-20261003-000150"
+subject = "Mago 1.51.2 is out A fresh wave of tools for PHP devs"
+created_at = "2026-10-03T14:18:40.453963337+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 91
+cite = "https://newreleases.io/project/github/carthage-software/mago/release/1.51.2"
+quote_tweet_id = ""
+sources = [
+  "https://newreleases.io/project/github/carthage-software/mago/release/1.51.2",
+  "https://github.com/newreleasesio",
+  "https://amirkamizi.com/blog/new-php-tools-youve-probably-never-heard-of",
+  "https://www.linuxlinks.com/mago-extremely-fast-php-linter-formatter-static-analyzer",
+]
