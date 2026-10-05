@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261005-000155"
+tweet_id = "TWEET-20261005-000155"
+subject = "DHH just had agents build Campfire in Rust Go and Elixir and Ruby was slowest"
+created_at = "2026-10-05T13:00:21.646854108+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 137
+cite = "https://x.com/AGTPinsights/status/2106836958307840378"
+quote_tweet_id = "2106836958307840378"
+sources = [
+  "https://x.com/AGTPinsights/status/2106836958307840378",
+  "https://x.com/IWoMainYo/status/2107064293728588147",
+  "https://x.com/NoahWeb3_/status/2107062460385751440",
+]
