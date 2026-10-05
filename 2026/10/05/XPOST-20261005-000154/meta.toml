@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261005-000154"
+tweet_id = "TWEET-20261005-000154"
+subject = "Empowering everyone to build reliable and efficient software."
+created_at = "2026-10-05T12:17:38.722402217+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 124
+cite = "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only"
+quote_tweet_id = ""
+sources = [
+  "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only",
+  "https://www.rust-lang.org",
+  "https://fusion.engineering/introduction-to-rust-and-its-benefits",
+  "https://github.com/rust-lang/rust/issues",
+  "https://factory.com/open-source-wikis/rust",
+]
