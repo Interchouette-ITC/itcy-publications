@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261006-000156"
+tweet_id = "TWEET-20261006-000156"
+subject = "the Rust compiler’s performance"
+created_at = "2026-10-06T16:05:08.484568968+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 193
+cite = "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026"
+quote_tweet_id = ""
+sources = [
+  "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026",
+  "https://perf.rust-lang.org/compare.html",
+  "https://github.com/camelid",
+  "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster",
+  "https://blog.logrocket.com/optimizing-rust-code-llvm",
+]
