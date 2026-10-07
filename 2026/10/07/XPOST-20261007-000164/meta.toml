@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261007-000164"
+tweet_id = "TWEET-20261007-000164"
+subject = "The PHP Toolchain Benchmarks have been updated to reflect the performance leap in PHPStan!"
+created_at = "2026-10-07T17:28:56.991186157+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 113
+cite = "https://carthage-software.github.io/php-toolchain-benchmarks"
+quote_tweet_id = "2107563694699733299"
+sources = [
+  "https://carthage-software.github.io/php-toolchain-benchmarks",
+  "https://github.com/carthage-software/static-analyzers-benchmarks",
+  "https://x.com/azjezz/status/2107563694699733299",
+  "https://phpstan.org/blog/phpstan-2-3-leap-in-performance",
+  "https://phpbenchlab.com/php-2026-performance-trends-analysis",
+]
