@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261007-000163"
+tweet_id = "TWEET-20261007-000163"
+subject = "New #rustlang hyper v1.12.0 released today!"
+created_at = "2026-10-07T17:16:06.260285613+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 88
+cite = "https://x.com/seanmonstar/status/2107543581825065007"
+quote_tweet_id = "2107543581825065007"
+sources = [
+  "https://x.com/seanmonstar/status/2107543581825065007",
+  "https://github.com",
+  "https://x.com/kristanishere/status/2107853334300311781",
+  "https://x.com/ChatterBuffalo/status/2107853192855994762",
+]
