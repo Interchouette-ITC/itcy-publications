@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261007-000158"
+tweet_id = "TWEET-20261007-000158"
+subject = "Code generation is no longer the bottleneck. What comes after it is."
+created_at = "2026-10-07T15:55:33.212814893+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 135
+cite = "https://www.infoworld.com/article/4230849/ai-has-accelerated-coding-now-software-organizations-must-redesign-everything-around-it.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4230849/ai-has-accelerated-coding-now-software-organizations-must-redesign-everything-around-it.html",
+  "https://us.resources.infoworld.com",
+  "https://www.besthub.dev/articles/why-code-generation-is-no-longer-the-bottleneck-verification-is-the-real-challenge-d9e3b72876c0",
+  "https://www.patrickphillips.org/blog/code-was-the-bottleneck-now-it-s-not-what-happens-next",
+]
