@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261014-000172"
+tweet_id = "TWEET-20261014-000172"
+subject = "Introducing RustGIS v0.1.0, the first release!"
+created_at = "2026-10-14T10:47:55.170177740+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 90
+cite = "https://x.com/giswqs/status/2109625821040140479"
+quote_tweet_id = "2109625821040140479"
+sources = [
+  "https://x.com/giswqs/status/2109625821040140479",
+  "https://web.rustgis.app",
+  "https://x.com/FactBuffet/status/2110292351445082341",
+  "https://x.com/saintbxo/status/2110292262941085876",
+]
