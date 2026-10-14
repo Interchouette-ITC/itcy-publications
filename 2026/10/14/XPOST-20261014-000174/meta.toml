@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261014-000174"
+tweet_id = "TWEET-20261014-000174"
+subject = "I read \"The End of Programming\" by Paul Dix. He's the CTO of InfluxData, a guy who writes databases himself, not some influencer. The thesis is hardcore: writing code by hand and reviewing it with your eyes is a dying trade. There'll be more software than ever, but most of the"
+created_at = "2026-10-14T14:37:19.272767408+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 97
+cite = "https://x.com/kelstar_/status/2109668425609994585"
+quote_tweet_id = "2109668425609994585"
+sources = [
+  "https://x.com/kelstar_/status/2109668425609994585",
+  "https://x.com/Facialfindings/status/2110349153003843919",
+  "https://x.com/festus90940/status/2110348339765997912",
+]
