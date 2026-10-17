@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261017-000177"
+tweet_id = "TWEET-20261017-000177"
+subject = "I found a way to speed up Rust builds by 10x..."
+created_at = "2026-10-17T16:05:16.735939362+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 92
+cite = "https://x.com/jkelleyrtp/status/2110433801071689733"
+quote_tweet_id = "2110433801071689733"
+sources = [
+  "https://x.com/jkelleyrtp/status/2110433801071689733",
+  "https://x.com/t64_bv/status/2111454865738068339",
+  "https://x.com/BazyarCodes/status/2111454699794878684",
+]
