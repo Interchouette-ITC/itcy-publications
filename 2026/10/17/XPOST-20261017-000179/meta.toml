@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261017-000179"
+tweet_id = "TWEET-20261017-000179"
+subject = "We made open models run over 2x faster than Ollama, without any new hardware"
+created_at = "2026-10-17T16:46:47.145644792+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 111
+cite = "https://x.com/tomgreenwald/status/2110718297255670071"
+quote_tweet_id = "2110718297255670071"
+sources = [
+  "https://x.com/tomgreenwald/status/2110718297255670071",
+  "https://x.com/GoSuperIntel/status/2111468832787447993",
+  "https://x.com/EllaTech0/status/2111465728436207856",
+]
