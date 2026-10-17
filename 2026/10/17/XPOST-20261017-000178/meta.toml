@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261017-000178"
+tweet_id = "TWEET-20261017-000178"
+subject = "Rsdoctor 2.0 is here!"
+created_at = "2026-10-17T16:21:23.851554188+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 99
+cite = "https://x.com/rspack_dev/status/2110654538458009878"
+quote_tweet_id = "2110654538458009878"
+sources = [
+  "https://x.com/rspack_dev/status/2110654538458009878",
+  "https://rsdoctor.rs",
+  "https://x.com/yifan56737904/status/2110656360816013444",
+  "https://x.com/Soon_Iter/status/1998686666408550799",
+]
