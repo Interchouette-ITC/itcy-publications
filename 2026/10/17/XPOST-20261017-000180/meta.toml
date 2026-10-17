@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261017-000180"
+tweet_id = "TWEET-20261017-000180"
+subject = "SolidCraft is an open-source parametric CAD tool written in Rust that ships with built-in Model Context Protocol (MCP) support."
+created_at = "2026-10-17T17:22:16.209401085+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 115
+cite = "https://x.com/bitsquin/status/2110063759960252925"
+quote_tweet_id = "2110063759960252925"
+sources = [
+  "https://x.com/bitsquin/status/2110063759960252925",
+  "https://github.com",
+  "https://x.com/RLehrbaum37632/status/2111460098916696470",
+  "https://x.com/0xal0ke/status/2111446678045593675",
+]
