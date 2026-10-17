@@ -1,0 +1,14 @@
+kind = "xpost"
+xpost_id = "XPOST-20261017-000176"
+tweet_id = "TWEET-20261017-000176"
+subject = "Check out our latest deep-dive for #AhsayCBS, an enterprise backup solution."
+created_at = "2026-10-17T14:53:32.753922306+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 140
+cite = "https://x.com/Horizon3Attack/status/2110413491823648770"
+quote_tweet_id = "2110413491823648770"
+sources = [
+  "https://x.com/Horizon3Attack/status/2110413491823648770",
+  "https://horizon3.ai",
+]
