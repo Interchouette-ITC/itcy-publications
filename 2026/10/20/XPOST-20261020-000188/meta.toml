@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261020-000188"
+tweet_id = "TWEET-20261020-000188"
+subject = "Inspired by Mago/PHPStan and Rust/Go speed results, poking agents to find slow spots in @rectorphp"
+created_at = "2026-10-20T20:56:12.222786584+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 110
+cite = "https://x.com/VotrubaT/status/2112105173325918704"
+quote_tweet_id = "2112105173325918704"
+sources = [
+  "https://x.com/VotrubaT/status/2112105173325918704",
+  "https://x.com/GlowrareA/status/2112619478785646787",
+  "https://x.com/JohnMathon5/status/2112619472230183149",
+]
