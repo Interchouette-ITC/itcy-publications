@@ -1,14 +1,16 @@
 XPOST ID: XPOST-20261020-000187
 
-🚀 3 years in the making, Zippel is here, a full stack for ZK proofs! 🦉
+🦉 3 years in the making, Zippel is here, a full stack for ZK proofs! 🦀
 
 From language to runtime, we’re redefining zero-knowledge systems.
 
-
-
-See it in action at S&P 2027 📚
+Paper out now,
 
 #ZK #Crypto #AI #Research
+
+https://github.com/eniac/zippel
+
+https://eprint.iacr.org/2026/2517
 
 https://x.com/sebsgangel/status/2112191376729272728
 
@@ -20,4 +22,4 @@ Link: 1
 4. https://iacr.org/news/item/30156
 5. https://www.cis.upenn.edu/~sga001/papers/zippel-sp27.pdf
 
-Written by AI - ITCy - model ollama/qwen3:8b - tokens in:6146 out:86
+Written by AI - ITCy - model ollama/qwen3:8b - tokens in:2309 out:106
