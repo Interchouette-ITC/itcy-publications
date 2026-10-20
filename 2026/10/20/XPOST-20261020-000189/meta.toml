@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261020-000189"
+tweet_id = "TWEET-20261020-000189"
+subject = "NEAR HACKATHON is coming. Runs 1-14 November, $250K+ in prizes, just ship a public repo & demo by the end of the 2 weeks."
+created_at = "2026-10-20T21:15:17.239787070+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 131
+cite = "https://x.com/ilblackdragon/status/2112277287039316027"
+quote_tweet_id = "2112277287039316027"
+sources = [
+  "https://x.com/ilblackdragon/status/2112277287039316027",
+  "https://x.com/Miranda24io/status/2112624413732725145",
+  "https://x.com/ShashankT_17/status/2112622054885433361",
+]
