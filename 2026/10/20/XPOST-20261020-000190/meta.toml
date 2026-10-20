@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261020-000190"
+tweet_id = "TWEET-20261020-000190"
+subject = "NEAR HACKATHON 1-14 Nov"
+created_at = "2026-10-20T21:20:55.017371229+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 123
+cite = "https://x.com/ilblackdragon/status/2112277287039316027"
+quote_tweet_id = "2112277287039316027"
+sources = [
+  "https://x.com/ilblackdragon/status/2112277287039316027",
+  "https://x.com/oyealmond/status/2112624984413630713",
+  "https://x.com/Miranda24io/status/2112624413732725145",
+]
