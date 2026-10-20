@@ -1,11 +1,13 @@
 kind = "xpost"
 xpost_id = "XPOST-20261020-000187"
 tweet_id = "TWEET-20261020-000187"
-subject = "After 3 years of hard work, we are happy to release Zippel, a Language, Compiler, Runtime, and Analyzer for ZK Proof Systems (https://github.com/eniac/zippel). The paper is here (https://eprint.iacr.org/2026/2517). Zippel will appear at S&P 2027.    1/5"
+subject = "After 3 years of hard work, we are happy to release Zippel, a Language, Compiler, Runtime, and Analyzer for ZK Proof Systems (https://github.com/eniac/zippel). The paper is here (https://eprint.iacr.org/2026/2517). Zippel will appear at S&P 2027.    1/5
+
+[operator rework] add \"Paper out now, [https://eprint.iacr.org/2026/2517]\" on the blank line"
 created_at = "2026-10-20T20:17:20.525266735+02:00"
-model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
-tokens_in = 6146
-tokens_out = 86
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2309
+tokens_out = 106
 cite = "https://x.com/sebsgangel/status/2112191376729272728"
 quote_tweet_id = "2112191376729272728"
 sources = [
