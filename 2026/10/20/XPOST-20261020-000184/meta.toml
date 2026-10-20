@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261020-000184"
+tweet_id = "TWEET-20261020-000184"
+subject = "Iris Chat is like Signal, but without phone numbers or accounts."
+created_at = "2026-10-20T13:31:35.024348710+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 69
+cite = "https://irischat.org"
+quote_tweet_id = "2112257463730737191"
+sources = [
+  "https://irischat.org",
+  "https://cdn.iris.to/npub1399g0q2gtwjcglyjcg3jw3rcllqhm375pwases5hkvqa56aqe5wsz2eaap/releases%2Firis-chat-rs/latest/assets/iris-chat-v2026.10.20-linux-x64.deb",
+  "https://zapstore.dev/apps/to.iris.chat",
+  "https://x.com/marttimalmi/status/2112257463730737191",
+]
