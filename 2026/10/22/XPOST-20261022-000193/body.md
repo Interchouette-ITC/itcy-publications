@@ -8,9 +8,11 @@ XPOST ID: XPOST-20261022-000193
 
 #Lean #FormalMethods #Ethereum
 
+https://x.com/0xdoug/status/2113146489052471434
+
 Link: 1
 0 = no link. /change_url TWEET-20261022-000193 <0|1|2|3|4|5|url>
 1. https://x.com/0xdoug/status/2113146489052471434
 2. https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels
 
-Written by AI - ITCy - model ollama/qwen3:8b - tokens in:0 out:0
+Written by AI - ITCy - model operator/merge-from-POST-247 - tokens in:0 out:0
