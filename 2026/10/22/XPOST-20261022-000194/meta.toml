@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261022-000194"
+tweet_id = "TWEET-20261022-000194"
+subject = "New programming language claims to be as safe as Rust, but faster and simpler"
+created_at = "2026-10-22T14:40:21.912197900+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 107
+cite = "https://x.com/CodeToTheMoons/status/2112977061904367927"
+quote_tweet_id = "2112977061904367927"
+sources = [
+  "https://x.com/CodeToTheMoons/status/2112977061904367927",
+  "https://x.com/KuittinenPetri/status/2113249614715306076",
+  "https://x.com/andrewiyer/status/2113249287379325367",
+]
