@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261022-000195"
+tweet_id = "TWEET-20261022-000195"
+subject = "The Rust style guide used by Google has been open sourced!"
+created_at = "2026-10-22T15:35:00.944340099+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 92
+cite = "https://x.com/ManishEarth/status/2112953407472562244"
+quote_tweet_id = "2112953407472562244"
+sources = [
+  "https://x.com/ManishEarth/status/2112953407472562244",
+  "https://google.github.io",
+  "https://x.com/jamesgreen84019/status/2113263685065949661",
+  "https://x.com/spacecatpressV1/status/2113263549195702483",
+]
