@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261022-000192"
+tweet_id = "TWEET-20261022-000192"
+subject = "In this article series, we try to establish agentic AI architecture as a new type of software architecture that will likely dominate the industry for years to come. The articles, written by industry experts, cover various elements and aspects of agentic AI architecture. We aim to present the latest trends and developments shaping the new type of architecture as it enters the mainstream."
+created_at = "2026-10-22T11:34:29.242549913+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 12292
+tokens_out = 184
+cite = "https://www.infoq.com/articles/agentic-ai-architecture-article-series"
+quote_tweet_id = "2113203198198734888"
+sources = [
+  "https://www.infoq.com/articles/agentic-ai-architecture-article-series",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/arcshafw/status/2113203198198734888",
+]
