@@ -1,0 +1,14 @@
+kind = "xpost"
+xpost_id = "XPOST-20261023-000001"
+tweet_id = "TWEET-20261023-000001"
+subject = "Two Rust TypeScript rewrites: Theo TS_Rust vs OXC tsrs (quote @ainotesus)"
+created_at = "2026-10-23T12:20:35.541703+02:00"
+model = "operator/simulated-dual-rewrite"
+tokens_in = 0
+tokens_out = 0
+cite = "https://x.com/ainotesus/status/2113495887070597381"
+quote_tweet_id = "2113495887070597381"
+sources = [
+  "https://x.com/ainotesus/status/2113495887070597381",
+  "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+]
