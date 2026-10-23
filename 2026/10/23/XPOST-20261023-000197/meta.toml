@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261023-000197"
+tweet_id = "TWEET-20261023-000197"
+subject = "Rust's CI costs were cut by roughly 75%. The interesting part is what the team chose not to optimize."
+created_at = "2026-10-23T12:31:28.503980645+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 106
+cite = "https://x.com/ayushagarwal027/status/2113344643492671870"
+quote_tweet_id = "2113344643492671870"
+sources = [
+  "https://x.com/ayushagarwal027/status/2113344643492671870",
+  "https://docs.rs",
+  "https://x.com/ahabgold/status/2113579135532699727",
+  "https://x.com/JJdoesTech/status/2113575778000441582",
+]
