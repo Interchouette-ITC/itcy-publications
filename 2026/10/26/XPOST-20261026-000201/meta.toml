@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261026-000201"
+tweet_id = "TWEET-20261026-000201"
+subject = "*PHP 8.5 reimplemented from scratch in Rust* Bridge Between Two Worlds PHP-in-Rust work and the growing bridge between the ecosystems"
+created_at = "2026-10-26T15:06:33.915474682+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 38
+cite = "https://x.com/Edmondif143061/status/2113977324303466890"
+quote_tweet_id = "2113977324303466890"
+sources = [
+  "https://x.com/Edmondif143061/status/2113977324303466890",
+  "https://phprust.com",
+  "https://x.com/Brocolicello/status/2114721481322070497",
+  "https://x.com/Rivera_Vane2/status/2114721438423040240",
+]
