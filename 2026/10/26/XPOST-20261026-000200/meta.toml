@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261026-000200"
+tweet_id = "TWEET-20261026-000200"
+subject = "This weekend we launched EthLib, a Lean4 library for Ethereum!"
+created_at = "2026-10-26T14:12:43.891382141+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 88
+cite = "https://x.com/tcoratger/status/2114395664687771936"
+quote_tweet_id = "2114395664687771936"
+sources = [
+  "https://x.com/tcoratger/status/2114395664687771936",
+  "https://github.com",
+  "https://x.com/TauLepton_/status/2111819440614727722",
+]
