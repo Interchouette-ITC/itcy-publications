@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261026-000199"
+tweet_id = "TWEET-20261026-000199"
+subject = "Agentic LLM systems have moved from linear prompt chains to graph-based workflows and, more recently, code-executing harnesses. Chains are simple but fragile, graphs add branching, retries, and validation, and code harnesses verify outputs through execution. The article advises validating model outputs and choosing the least complex design that meets reliability, speed, and cost needs."
+created_at = "2026-10-26T13:15:17.483518374+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 83
+cite = "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution"
+quote_tweet_id = "2114693311466258777"
+sources = [
+  "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/NewproductR/status/2114693311466258777",
+]
