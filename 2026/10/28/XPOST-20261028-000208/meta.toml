@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261028-000208"
+tweet_id = "TWEET-20261028-000208"
+subject = "*Agent Box based on GΞLIX 1 AI Chip from Acrab AI in* Singapore"
+created_at = "2026-10-28T14:33:04.359724830+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 107
+cite = "https://x.com/twtayaan/status/2115401361441620439"
+quote_tweet_id = "2115401361441620439"
+sources = [
+  "https://x.com/twtayaan/status/2115401361441620439",
+  "https://x.com/iveyzen/status/2115432250485420147",
+  "https://x.com/arturnow/status/2115425448049963462",
+]
