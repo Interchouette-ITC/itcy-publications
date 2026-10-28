@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261028-000204"
+tweet_id = "TWEET-20261028-000204"
+subject = "*Worm armed 42 GitHub repos by hiding a payload too big to fail
+
+[operator rework] replace \":joy:\" to \"\""
+created_at = "2026-10-28T12:46:48.771768238+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 2366
+tokens_out = 140
+cite = "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
+quote_tweet_id = ""
+sources = [
+  "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+  "https://account.theregister.com/login",
+  "https://www.cyberend.io/blog/malware-campaign-arms-42-github-repositories-with-hidden-payloads",
+]
