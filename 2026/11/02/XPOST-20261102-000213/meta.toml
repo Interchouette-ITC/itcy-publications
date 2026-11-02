@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261102-000213"
+tweet_id = "TWEET-20261102-000213"
+subject = "LakeSail announced a strategic partnership with Oxide Computer Company to help enterprises modernize data and AI infrastructure while maintaining control over security, performance, and cost."
+created_at = "2026-11-02T16:56:51.920294249+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 113
+cite = "https://x.com/LakeSail/status/2115776915504087421"
+quote_tweet_id = "2115776915504087421"
+sources = [
+  "https://x.com/LakeSail/status/2115776915504087421",
+  "https://x.com/CIOInfluence/status/2117164109024387133",
+  "https://x.com/PiaRedDragon/status/2116305607192121505",
+]
