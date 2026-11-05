@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261105-000217"
+tweet_id = "TWEET-20261105-000217"
+subject = "*The App Is Just the Tip: What It Takes to Build Mobile Infrastructure at Scale"
+created_at = "2026-11-05T15:17:28.748231971+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 17822
+tokens_out = 81
+cite = "https://www.infoq.com/articles/mobile-app-infrastructure-at-scale"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoq.com/articles/mobile-app-infrastructure-at-scale",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://mobilemonitoringsolutions.com/article-the-app-is-just-the-tip-what-it-takes-to-build-mobile-infrastructure-at-scale",
+  "https://news.lavx.hu/article/the-app-is-the-tip-what-it-takes-to-build-mobile-infrastructure-at-scale",
+]
