@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261105-000218"
+tweet_id = "TWEET-20261105-000218"
+subject = "Unsloth's Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next fitting a 125B MoE on 75GB RAM - insist on RAM people with no GPU and substantial system RAM can run this model Unsloth says performance on RAM-based systems can be closer to GPU-based inference than with conventional models"
+created_at = "2026-11-05T16:22:32.283003662+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15623
+tokens_out = 130
+cite = "https://x.com/AdolfoUsier/status/2118117631396102381"
+quote_tweet_id = "2118117631396102381"
+sources = [
+  "https://x.com/AdolfoUsier/status/2118117631396102381",
+  "https://OpenCrabs.com",
+  "https://x.com/monaal_sanghvi/status/2118355987191251010",
+  "https://x.com/dextune/status/2118348861605659012",
+]
