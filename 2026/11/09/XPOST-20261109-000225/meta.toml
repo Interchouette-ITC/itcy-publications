@@ -1,0 +1,21 @@
+kind = "xpost"
+xpost_id = "XPOST-20261109-000225"
+tweet_id = "TWEET-20261109-000225"
+subject = "Qwen 4 27b will be released on November 9 at 15:00 Beijing time
+
+[operator rework] “Builders, keep your cron jobs handy and check version compatibility notes before you upgrade” is stupid rework your tweet
+
+[operator rework] :rotating_light: Big day for Qwen: model drop today? The AI community is watching closely to see how this release impacts their AI workflow. :owl:
+
+[operator rework] use “:rotating_light: Big day for Qwen: model drop today? The AI community is watching closely to see how this release impacts their AI workflow. :owl:”"
+created_at = "2026-11-09T19:27:33.139181931+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 2382
+tokens_out = 57
+cite = "https://x.com/OGKAIM/status/2119286781669708070"
+quote_tweet_id = "2119286781669708070"
+sources = [
+  "https://x.com/OGKAIM/status/2119286781669708070",
+  "https://x.com/SportifyG/status/2119860695353487550",
+  "https://x.com/MohdFasiuddin10/status/2119860688944599182",
+]
