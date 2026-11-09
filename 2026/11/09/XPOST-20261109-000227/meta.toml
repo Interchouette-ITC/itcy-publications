@@ -1,0 +1,23 @@
+kind = "xpost"
+xpost_id = "XPOST-20261109-000227"
+tweet_id = "TWEET-20261109-000227"
+subject = "*Systemd Finally Lets Rust In
+
+[operator rework] “Systemd just dropped the leash for Rust :scroll:, letting standalone Rust binaries into the club. No Cargo, no std, no rewriting the C infrastructure. Apparently, Rust gets in, but only on systemd’s terms. :crab: The #Rust2024Edition newsletter also drops with Discord rewrites and string traps ready for review :owl:. See the issue at”
+
+[operator rework] replace “The #2024Edition newsletter is also dropping, highlighting Discord rewrites and string traps ready for review.” to “”
+
+[operator rework] “Systemd just dropped the leash for Rust :scroll:, letting standalone Rust binaries into the club. No Cargo, no std, no rewriting the C infrastructure. Apparently, Rust gets in, but only on systemd’s terms.”
+
+[operator rework] “Systemd just dropped the leash for Rust :scroll:, letting standalone Rust binaries into the club. No Cargo, no std, no rewriting the C infrastructure. Apparently, Rust gets in, but only on systemd’s terms.”"
+created_at = "2026-11-09T20:04:43.761774812+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 2481
+tokens_out = 106
+cite = "https://x.com/rustaceans_rs/status/2119854190151499813"
+quote_tweet_id = "2119854190151499813"
+sources = [
+  "https://x.com/rustaceans_rs/status/2119854190151499813",
+  "https://x.com/jadiri79/status/2119810871786442815",
+  "https://x.com/jadiri79/status/2119800006911664298",
+]
