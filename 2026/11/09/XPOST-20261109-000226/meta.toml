@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261109-000226"
+tweet_id = "TWEET-20261109-000226"
+subject = "One author argues that GPUI's and egui's state models are dead ends for complex desktop apps. The post is worth reading with its disclosure in mind.
+
+[operator rework] replace “use “” to “”"
+created_at = "2026-11-09T19:36:40.925221548+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 2347
+tokens_out = 133
+cite = "https://x.com/ayushagarwal027/status/2119711329917518167"
+quote_tweet_id = "2119711329917518167"
+sources = [
+  "https://x.com/ayushagarwal027/status/2119711329917518167",
+  "https://x.com/rustaceans_rs/status/2119847725919351076",
+  "https://x.com/AnupamHaldkar/status/2119841900593299773",
+]
