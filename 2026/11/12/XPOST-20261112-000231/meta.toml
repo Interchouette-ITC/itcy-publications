@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261112-000231"
+tweet_id = "TWEET-20261112-000231"
+subject = "Relax is a Rust-based real-time compiler and JIT runtime for Rust from @makepad"
+created_at = "2026-11-12T19:06:07.712278059+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15512
+tokens_out = 73
+cite = "https://x.com/rikarends/status/2120619251492933670"
+quote_tweet_id = "2120619251492933670"
+sources = [
+  "https://x.com/rikarends/status/2120619251492933670",
+  "https://makepad.github.io/relax",
+  "https://x.com/lacion/status/2120919456515805208",
+  "https://x.com/scipio_nl/status/2120881146049552486",
+]
