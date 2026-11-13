@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261113-000233"
+tweet_id = "TWEET-20261113-000233"
+subject = "A 145 billion-parameter model, officially benchmarked at 121 tokens per second on a 24GB 5090D."
+created_at = "2026-11-13T14:30:34.536824741+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15988
+tokens_out = 117
+cite = "https://x.com/SamuelZengML/status/2120939739431972922"
+quote_tweet_id = "2120939739431972922"
+sources = [
+  "https://x.com/QwenAIFans/status/2121100655561519198",
+  "https://github.com",
+  "https://x.com/sumofallTV/status/2121224318780592208",
+  "https://x.com/StockMarketsai7/status/2121223992883523893",
+]
