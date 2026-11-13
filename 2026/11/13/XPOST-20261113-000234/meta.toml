@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261113-000234"
+tweet_id = "TWEET-20261113-000234"
+subject = "Rust 1.100.0 is out, and the `!` type is officially stable. In addition to using -> ! to indicate that a function never returns normally, you can now write Result<T, !>, explicitly indicating that it will never return Err. `Infallible` is also now an alias for !."
+created_at = "2026-11-13T14:38:59.133891006+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 32315
+tokens_out = 239
+cite = "https://x.com/lencx_/status/2121075448121823421"
+quote_tweet_id = "2121075448121823421"
+sources = [
+  "https://x.com/lencx_/status/2121075448121823421",
+  "https://x.com/Protox0/status/2121236228620378539",
+  "https://x.com/Protox0/status/2121236228620378539/media_tags",
+]
