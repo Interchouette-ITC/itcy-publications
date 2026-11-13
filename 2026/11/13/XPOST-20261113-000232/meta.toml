@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261113-000232"
+tweet_id = "TWEET-20261113-000232"
+subject = "Nvidia’s founder Jensen Huang is out, and tech and crypto leaders are furious. Some fear for open-source AI, others question the board."
+created_at = "2026-11-13T13:29:05.561442336+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 18989
+tokens_out = 123
+cite = "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit"
+quote_tweet_id = ""
+sources = [
+  "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+  "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot",
+  "https://finance.yahoo.com/technology/ai/articles/massive-mistake-tech-ai-crypto-171442784.html",
+  "https://www.scientificamerican.com/article/jensen-huang-leaving-nvidia-risks-a-brain-drain-from-the-ai-chipmaker",
+]
