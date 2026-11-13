@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261113-000235"
+tweet_id = "TWEET-20261113-000235"
+subject = "Rust ONNX Zero-Copy Inference: Shipping Models Without the C/C++ Tax"
+created_at = "2026-11-13T16:53:22.557686876+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 17946
+tokens_out = 79
+cite = "https://medium.com/%40andrelgcclaudino/rust-onnx-zero-copy-inference-shipping-models-without-the-c-c-tax-04642dabdbd4"
+quote_tweet_id = ""
+sources = [
+  "https://medium.com/%40andrelgcclaudino/rust-onnx-zero-copy-inference-shipping-models-without-the-c-c-tax-04642dabdbd4",
+  "https://www.rustfaq.org/en/how-to-run-onnx-models-in-rust",
+  "https://ml-rust.github.io/projects/oxionnx",
+  "https://docs.rs/onnxruntime/latest/onnxruntime",
+]
