@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261116-000239"
+tweet_id = "TWEET-20261116-000239"
+subject = "More than 30"
+created_at = "2026-11-16T13:11:19.137566258+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 37712
+tokens_out = 223
+cite = "https://www.infoworld.com/article/4247344/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem-2.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4247344/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem-2.html",
+  "https://us.resources.infoworld.com",
+  "https://labs.cloudsecurityalliance.org/research/csa-research-note-claude-code-settings-secret-leak-20261108",
+  "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
+  "https://www.privacyguides.org/news/2026/11/10/claude-code-leaks-secrets-and-passwords-in-public-github-repositories",
+]
