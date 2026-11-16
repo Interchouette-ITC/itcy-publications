@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261116-000243"
+tweet_id = "TWEET-20261116-000243"
+subject = "GPUs Techie uses voltage glitching hack to turn $2"
+created_at = "2026-11-16T14:39:23.649565444+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 19779
+tokens_out = 127
+cite = "https://x.com/mylifcc/status/2122238491987718331"
+quote_tweet_id = "2122238491987718331"
+sources = [
+  "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+  "https://flipboard.com/@TomsHardware",
+  "https://en.softonic.com/articles/can-you-turn-a-2500-nvidia-gpu-into-a-20000-one-this-engineer-can",
+  "https://www.gate.com/news/detail/NVDA/techie-converts-2500-nvidia-mining-gpu-to-20000-a100-using-voltage-glitch-25576500",
+]
