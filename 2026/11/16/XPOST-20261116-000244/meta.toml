@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261116-000244"
+tweet_id = "TWEET-20261116-000244"
+subject = "Samsung’s LittleBit squeezes a 13B model into under 1 GB"
+created_at = "2026-11-16T16:06:10.019973287+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 30612
+tokens_out = 203
+cite = "https://x.com/dr_cintas/status/2122068412335608227"
+quote_tweet_id = "2122068412335608227"
+sources = [
+  "https://x.com/dr_cintas/status/2122068412335608227",
+  "https://x.com/littlebit670/status/2121879584169734319",
+  "https://x.com/pleeeehpluuuh/status/2121654957854044308",
+]
