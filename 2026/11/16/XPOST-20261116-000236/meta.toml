@@ -1,0 +1,13 @@
+kind = "xpost"
+xpost_id = "XPOST-20261116-000236"
+tweet_id = "TWEET-20261116-000236"
+subject = "Rust Namespace Support still not in in 2026"
+created_at = "2026-11-16T12:25:00.563755766+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 18259
+tokens_out = 108
+cite = "https://rust-lang.github.io/rfcs/3243-packages-as-optional-namespaces.html"
+quote_tweet_id = ""
+sources = [
+  "https://rust-lang.github.io/rfcs/3243-packages-as-optional-namespaces.html",
+]
