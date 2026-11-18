@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261118-000245"
+tweet_id = "TWEET-20261118-000245"
+subject = "Microsoft’s internal AI development is starting to show results, with the MAI family of models and the Maia inference platform — both designed to lower token costs."
+created_at = "2026-11-18T13:01:47.801500337+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 36572
+tokens_out = 196
+cite = "https://www.infoworld.com/article/4245368/exploring-microsoft-ai-foundation-models.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4245368/exploring-microsoft-ai-foundation-models.html",
+  "https://us.resources.infoworld.com",
+  "https://microsoft.ai/news/microsoft-ignite-2026",
+  "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference",
+  "https://datasciencedojo.com/blog/microsoft-mai-models-frontier-tuning",
+]
