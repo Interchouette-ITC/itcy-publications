@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261118-000246"
+tweet_id = "TWEET-20261118-000246"
+subject = "Datadog is extending its Agent Observability platform with Online Experiments, allowing engineering teams to compare AI agent versions against real production traffic rather than relying exclusively on predefined evaluation datasets."
+created_at = "2026-11-18T13:19:00.442470182+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 17984
+tokens_out = 104
+cite = "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://www.datadoghq.com/blog/online-experiments-agent-observability",
+  "https://www.omegatechnologysolutionsgroupinc.com/blog/datadog-adds-online-experiments-for-ai-agent-testing-in-production-b3e91c",
+]
