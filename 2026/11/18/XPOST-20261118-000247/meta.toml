@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261118-000247"
+tweet_id = "TWEET-20261118-000247"
+subject = "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching."
+created_at = "2026-11-18T15:57:06.999949995+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 37566
+tokens_out = 169
+cite = "https://openai.com/index/open-source-codex-orchestration-symphony"
+quote_tweet_id = ""
+sources = [
+  "https://openai.com/index/open-source-codex-orchestration-symphony",
+  "https://openaifoundation.org",
+  "https://chatgpt.com",
+  "https://www.infoworld.com/article/4164173/openais-symphony-spec-pushes-coding-agents-from-prompts-to-orchestration.html",
+  "https://ai-herald.com/symphony-openais-open-source-spec-that-turns-issue-trackers-into-agent-systems",
+]
