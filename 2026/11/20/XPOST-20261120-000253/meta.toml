@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261120-000253"
+tweet_id = "TWEET-20261120-000253"
+subject = "Docker unveils a new brand identity and logo reflecting its growing focus on AI agents"
+created_at = "2026-11-20T15:14:48.096567439+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15370
+tokens_out = 52
+cite = "https://x.com/linuxiac/status/2123765555723170229"
+quote_tweet_id = "2123765555723170229"
+sources = [
+  "https://x.com/linuxiac/status/2123765555723170229",
+  "https://linuxiac.com",
+  "https://x.com/HacktronAI/status/2123782007280832985",
+  "https://x.com/pshah_lab/status/2123779898749706304",
+]
