@@ -4,7 +4,7 @@ Heard ya'll love #rustlang, so the Rusty Stars project tracks every star since 2
 
 Now we're counting total stars gained over the last 7 days while watching trending projects rise. 📈
 
-Curious if libracoder or storytelling will spark another wave of community love this week. 🦉
+Curious if libracoder or ‘Rust anything’ storytelling will spark another wave of community love this week. 🦉
 
 #Rust #OpenSource
 
