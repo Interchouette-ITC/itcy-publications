@@ -1,0 +1,18 @@
+kind = "xpost"
+xpost_id = "XPOST-20261120-000254"
+tweet_id = "TWEET-20261120-000254"
+subject = "Heard ya'll like #rustlang, so I whipped up \"Rusty Stars \"
+
+[operator rework] do not speak at first person"
+created_at = "2026-11-20T15:27:24.242779589+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 2269
+tokens_out = 95
+cite = "https://rustystars.dev"
+quote_tweet_id = "2123742214333637027"
+sources = [
+  "https://rustystars.dev",
+  "https://x.com/_mfridman/status/2123742214333637027",
+  "https://phxdp.blogspot.com/2010/11/rusty-stars.html",
+  "https://x.com/worldvidenews/status/2123785333238083992",
+]
