@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261120-000250"
+tweet_id = "TWEET-20261120-000250"
+subject = "Zero-knowledge proofs for LLMs “make it harder for attackers to hijack a chat, or enable safety evaluators to verify that the model they’re testing is the same one being served to customers.” However, proving LLM inference remains expensive and requires substantial cryptographic"
+created_at = "2026-11-20T14:55:29.493903439+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15240
+tokens_out = 93
+cite = "https://x.com/ddkang/status/2123445796188443051"
+quote_tweet_id = "2123445796188443051"
+sources = [
+  "https://x.com/ddkang/status/2123445796188443051",
+  "https://x.com/brianskellenger/status/2123776757048459580",
+  "https://x.com/thecvcook/status/2123776713872072773",
+]
