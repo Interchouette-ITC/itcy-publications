@@ -1,0 +1,17 @@
+kind = "xpost"
+xpost_id = "XPOST-20261123-000256"
+tweet_id = "TWEET-20261123-000256"
+subject = "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, and 90-minute asynchronous timeouts. Billing is the instance price plus a 9.75 percent fee; first hands-on tests report an eight-minute publish and no response streaming."
+created_at = "2026-11-23T14:31:04.590783360+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 17441
+tokens_out = 104
+cite = "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances"
+quote_tweet_id = "2124858061026148505"
+sources = [
+  "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/high-performing-teams",
+  "https://spreadprivacy.com",
+  "https://x.com/arnaudmercier/status/2124858061026148505",
+]
