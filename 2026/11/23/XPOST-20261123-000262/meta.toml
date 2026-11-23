@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261123-000262"
+tweet_id = "TWEET-20261123-000262"
+subject = "Appwrite is moving its server from PHP to Rust"
+created_at = "2026-11-23T17:58:20.560632838+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15522
+tokens_out = 104
+cite = "https://x.com/eldadfux/status/2124787288198860904"
+quote_tweet_id = "2124787288198860904"
+sources = [
+  "https://x.com/eldadfux/status/2124787288198860904",
+  "https://x.com/AnchorTerminal/status/2124908650321834101",
+  "https://x.com/BreezeOg1/status/2124888531990724907",
+]
