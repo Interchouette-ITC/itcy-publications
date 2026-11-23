@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261123-000257"
+tweet_id = "TWEET-20261123-000257"
+subject = "Enterprises should look hard at agentic AI, but they should also remember what happened when cloud-native, microservices, SOA, and distributed systems became technology religions."
+created_at = "2026-11-23T15:39:03.133639398+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 18713
+tokens_out = 79
+cite = "https://www.infoworld.com/article/4249734/agentic-ai-repeats-same-old-enterprise-adoption-cycle.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4249734/agentic-ai-repeats-same-old-enterprise-adoption-cycle.html",
+  "https://us.resources.infoworld.com",
+  "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-enterprise-2028.html",
+  "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai",
+]
