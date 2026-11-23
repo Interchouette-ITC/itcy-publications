@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261123-000255"
+tweet_id = "TWEET-20261123-000255"
+subject = "Embedded Software with Rust with David Cabanis"
+created_at = "2026-11-23T12:49:31.399643829+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 18275
+tokens_out = 90
+cite = "https://rustacean-station.org/episode/david-cabanis"
+quote_tweet_id = ""
+sources = [
+  "https://rustacean-station.org/episode/david-cabanis",
+  "https://www.doulos.com/knowhow/rust/debugging-embedded-rust-vs-c",
+  "https://www.manning.com/books/embedded-software-with-rust",
+  "https://discord.gg/cHc3Gyc",
+]
