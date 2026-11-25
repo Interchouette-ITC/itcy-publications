@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261125-000266"
+tweet_id = "TWEET-20261125-000266"
+subject = "proof-oriented programming in cuda-oxide"
+created_at = "2026-11-25T17:35:10.383044834+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15813
+tokens_out = 71
+cite = "https://x.com/npashi/status/2125431397532000271"
+quote_tweet_id = "2125431397532000271"
+sources = [
+  "https://x.com/npashi/status/2125431397532000271",
+  "https://x.com/somi_ai/status/2125629003218514355",
+  "https://x.com/BlackScarabAI/status/2125628852349116485",
+]
