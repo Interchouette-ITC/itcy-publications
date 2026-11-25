@@ -1,0 +1,16 @@
+kind = "xpost"
+xpost_id = "XPOST-20261125-000264"
+tweet_id = "TWEET-20261125-000264"
+subject = "Relate is a new Rust implementation by Neo4j: An Embedded Database for AI Agents"
+created_at = "2026-11-25T14:49:12.102957977+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 17669
+tokens_out = 88
+cite = "https://neo4j.com/press-releases/announcing-relate-by-neo4j"
+quote_tweet_id = ""
+sources = [
+  "https://neo4j.com/press-releases/announcing-relate-by-neo4j",
+  "https://relatedb.ai",
+  "https://console.neo4j.io",
+  "https://www.enterpriseaiworld.com/Articles/News/News/Neo4j-released-Relate-an-in-memory-database-purpose-built-for-AI-agents-177485.aspx",
+]
