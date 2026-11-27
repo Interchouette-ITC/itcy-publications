@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261127-000268"
+tweet_id = "TWEET-20261127-000268"
+subject = "*Inkling 2 Mini* from Thinking Machines Lab released on 20 November 2026"
+created_at = "2026-11-27T14:23:23.147993621+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15372
+tokens_out = 68
+cite = "https://x.com/dhh/status/2125845831051858053"
+quote_tweet_id = "2125845831051858053"
+sources = [
+  "https://x.com/dhh/status/2125845831051858053",
+  "https://x.com/JohannRoduit/status/2126305256384651559",
+  "https://x.com/hermanndelcampo/status/2126305072787095949",
+]
