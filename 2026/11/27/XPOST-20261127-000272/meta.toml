@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261127-000272"
+tweet_id = "TWEET-20261127-000272"
+subject = "Kioxia and NVIDIA are experimenting with using NVMe SSDs to extend effective GPU memory capacity to over 1 petabyte"
+created_at = "2026-11-27T15:23:54.393300035+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15271
+tokens_out = 122
+cite = "https://x.com/ItsmeAjayKV/status/2126175448279527699"
+quote_tweet_id = "2126175448279527699"
+sources = [
+  "https://x.com/ItsmeAjayKV/status/2126175448279527699",
+  "https://x.com/gotofuture_ai/status/2126318806385701199",
+  "https://x.com/hwangjini10/status/2126317914118906191",
+]
