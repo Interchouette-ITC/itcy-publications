@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261127-000267"
+tweet_id = "TWEET-20261127-000267"
+subject = "*PostgreSQL 19  One particularly interesting change for application developers is ON CONFLICT DO SELECT"
+created_at = "2026-11-27T14:04:14.941954450+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15516
+tokens_out = 125
+cite = "https://x.com/alxshp/status/2125651927270932937"
+quote_tweet_id = "2125651927270932937"
+sources = [
+  "https://x.com/alxshp/status/2125651927270932937",
+  "https://x.com/HDL0_0/status/2126293778013036902",
+  "https://x.com/cpu55/status/2126290483638894877",
+]
