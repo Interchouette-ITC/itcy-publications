@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20261127-000269"
+tweet_id = "TWEET-20261127-000269"
+subject = "Carbon from Google to challenge Rust"
+created_at = "2026-11-27T14:39:47.204636884+01:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3.5:9b"
+tokens_in = 15596
+tokens_out = 83
+cite = "https://x.com/tetsuo_cpp/status/2126154613711908968"
+quote_tweet_id = "2126154613711908968"
+sources = [
+  "https://x.com/tetsuo_cpp/status/2126154613711908968",
+  "https://x.com/sussexmarco/status/2126309770324025681",
+  "https://x.com/GBNEWS/status/2126056602411335857",
+]
